@@ -13,4 +13,4 @@ Per quanto riguarda il confronto con altro atenao abbiamo utilizzato i dati dell
 Per quanto rigurada il modello di classificasione dei setimenti per addestralo abbiamo utilizzato il seguente dataset : http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html.
 
 Presenta una serie di twitter estratti dagli account dei politici italiani, ciascuno con una apposita label che ne classifica la polarità in 4 differenti categorie : positivo, negativo, mixed, neutrale. 
-Al modello veranno dati in pasto i testi dei messaggi inviati sul gruppo telegram di programmazione 1 (apposittamente ripuliti prima), degli esempi sono dipsonibili nella cartella chatTelegram
+Al modello veranno dati in pasto i testi dei messaggi inviati sul gruppo telegram di programmazione 1 (apposittamente ripuliti prima), degli esempi sono dipsonibili nella cartella chat Telegram.
